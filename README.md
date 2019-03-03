@@ -7,3 +7,8 @@ This repository is for algorithm study.<br>
 First, please make <b>your own directory</b> and push your codes.<br>
 Second, upload your code after naming with `(ploblem's no)-(ploblem's name).cpp` like `1000-add.cpp`.<br>
 Third, make <b>Pull request</b>, and our member will review your code.<br>
+
+## Small rules for our study
+* <b>Review other's code actively!!</b>
+* Write commit-msg so we can understand well.
+* Wrtie converstaion briefly, f.e how I solved this problem, what algorithm I used, what data structure I used.
