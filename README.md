@@ -1,5 +1,5 @@
 # Algorithm For Git-tturami
-<p align="center"><img src="https://github.com/git-tturami/algorithm/blob/master/git_tturami.png?raw=true"/></p><br><br>
+<br><p align="center"><img src="https://github.com/git-tturami/algorithm/blob/master/git_tturami.png?raw=true"/></p><br><br>
 `Git-tturami` is programming study group in CAUCSE.<br>
 This repository is for algorithm study.<br>
 
