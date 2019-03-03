@@ -11,4 +11,7 @@ Third, make <b>Pull request</b>, and our member will review your code.<br>
 ## Small rules for our study
 * <b>Review other's code actively!!</b>
 * Write commit-msg so we can understand well.
-* Wrtie converstaion briefly, f.e how I solved this problem, what algorithm I used, what data structure I used.
+* When you write comment in your Pull request, you should write about belows,
+  * My code's abstract `Time complexity`.
+  * My code's abstract `Space complexity`.
+  * What `algorithm`, `data structures` or `ways` I used.
