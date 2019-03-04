@@ -1,7 +1,7 @@
 # Git-tturami
 <br><p align="center"><img src="https://github.com/git-tturami/algorithm/blob/master/git_tturami.png?raw=true"/></p><br><br>
 `Git-tturami` is programming study group in Chung-Ang university computer science engineering.<br>
-We pursue study for <b>Mutual Benefit.</b> so, <b>Feel free 
+We pursue study for <b>Mutual Benefit.</b> so, <b>Feel free debating each other.</b><br>
 This repository is for algorithm study.<br>
 
 ## For uploading your code
